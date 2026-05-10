@@ -1,3 +1,23 @@
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Reports
+reports/*.csv
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+
+
 # Build and Release Folders
 bin-debug/
 bin-release/
